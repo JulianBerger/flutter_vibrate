@@ -17,6 +17,6 @@ A new Flutter plugin.
   s.dependency 'Flutter'
   
   s.static_framework = true
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '11.0'
 end
 
